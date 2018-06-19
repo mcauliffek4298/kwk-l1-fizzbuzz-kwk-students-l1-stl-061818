@@ -19,10 +19,7 @@ def fizzbuzz(x)
  puts "Buzz"
   
  
- #if a number is divisible by 3 and 5, return "fizzbuzz"
- elsif x%3==0&&x%5==10
- puts "Fizzbuzz"
- end
+
 end
 fizzbuzz (15)
 

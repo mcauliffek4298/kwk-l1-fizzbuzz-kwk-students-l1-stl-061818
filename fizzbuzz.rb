@@ -8,6 +8,20 @@ def fizzbuzz(x)
  puts "fizz"
  end
 end
+ 
+ #if a number is divisible by 5, return buzz
+ elsif x%5==0 
+ puts "buzz"
+  end 
+ 
+ 
+  end
+ 
+ 
+ 
+ 
+ 
+ 
   
 fizzbuzz (10)
 

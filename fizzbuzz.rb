@@ -17,5 +17,5 @@ def fizzbuzz(x)
  
   end
  
-fizzbuzz (20)
+fizzbuzz (6)
 

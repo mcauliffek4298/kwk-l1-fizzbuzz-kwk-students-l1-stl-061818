@@ -3,7 +3,7 @@
 #if a number is divisible by 3 and 5, return "fizzbuzz"
 
 def fizzbuzz (x)
- # if a number is divisible by 3, return 5
+ #if a number is divisible by 3, return 5
  if x% by 3==0
  puts "fizz"
  end

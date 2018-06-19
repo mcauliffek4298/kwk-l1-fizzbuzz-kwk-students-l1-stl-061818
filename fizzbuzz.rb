@@ -16,7 +16,7 @@ def fizzbuzz(x)
  elsif x%3==0&&x%5==10
  puts "Fizzbuzz"
  
-  end
+end
 end
  
 fizzbuzz (15)

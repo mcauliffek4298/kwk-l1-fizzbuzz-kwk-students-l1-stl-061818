@@ -3,7 +3,8 @@
 #if a number is divisible by 3 and 5, return "fizzbuzz"
 def fizzbuzz(x)
  
- 
+stay = gets.chomp.capitalize
+
  
  
  

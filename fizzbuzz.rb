@@ -18,6 +18,6 @@ def fizzbuzz(x)
  
 end
 end
- 
+ end
 fizzbuzz (15)
 

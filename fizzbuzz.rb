@@ -3,7 +3,7 @@
 #if a number is divisible by 3 and 5, return "fizzbuzz"
 def fizzbuzz(x)
 
- elsif x%3==0&&x%5==10
+ if x%3==0&&x%5==10
  puts "Fizzbuzz"
  
  

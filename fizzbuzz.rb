@@ -2,10 +2,9 @@
 #if a number is divisible by 5, return "buzz"
 #if a number is divisible by 3 and 5, return "fizzbuzz"
 def fizzbuzz(x)
- 
-stay = gets.chomp.capitalize
 
- 
+ elsif x%3==0&&x%5==10
+ puts "Fizzbuzz"
  
  
  
